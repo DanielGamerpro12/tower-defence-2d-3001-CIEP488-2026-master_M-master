@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: f09fcc406ba615a409e40a415afb5da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5286620555331141678
+    second: Frames-Andar_0
+  - first:
+      213: 8489432871615715361
+    second: Frames-Andar_1
+  - first:
+      213: -1188399214320149573
+    second: Frames-Andar_2
+  - first:
+      213: 6768347837035478053
+    second: Frames-Andar_3
+  - first:
+      213: -4354441256895424959
+    second: Frames-Andar_4
+  - first:
+      213: -1348356956026665845
+    second: Frames-Andar_5
+  - first:
+      213: 626819516221077141
+    second: Frames-Andar_6
+  - first:
+      213: 1906773499175942340
+    second: Frames-Andar_7
+  - first:
+      213: 6814924627318754549
+    second: Frames-Andar_8
+  - first:
+      213: -6307516071728323493
+    second: Frames-Andar_9
+  - first:
+      213: 2623887789284842042
+    second: Frames-Andar_10
+  - first:
+      213: 7360784471136728041
+    second: Frames-Andar_11
+  - first:
+      213: -1169872549382257414
+    second: Frames-Andar_12
+  - first:
+      213: 7103135705102225352
+    second: Frames-Andar_13
+  - first:
+      213: -2388404426889585830
+    second: Frames-Andar_14
+  - first:
+      213: -74208509390064181
+    second: Frames-Andar_15
+  - first:
+      213: 5738132366651650155
+    second: Frames-Andar_16
+  - first:
+      213: -3390083083749302435
+    second: Frames-Andar_17
+  - first:
+      213: 245546204343962920
+    second: Frames-Andar_18
+  - first:
+      213: 2058818770472118701
+    second: Frames-Andar_19
+  - first:
+      213: -2076242832293433590
+    second: Frames-Andar_20
+  - first:
+      213: 5336945531293923415
+    second: Frames-Andar_21
+  - first:
+      213: 4953706695992319905
+    second: Frames-Andar_22
+  - first:
+      213: 3897155514090770576
+    second: Frames-Andar_23
+  - first:
+      213: -641880635138519170
+    second: Frames-Andar_24
+  - first:
+      213: -1126101537493044502
+    second: Frames-Andar_25
+  - first:
+      213: 5977123739464927101
+    second: Frames-Andar_26
+  - first:
+      213: 1391510671495932230
+    second: Frames-Andar_27
+  - first:
+      213: -5319220888200515431
+    second: Frames-Andar_28
+  - first:
+      213: -192842337077563758
+    second: Frames-Andar_29
+  - first:
+      213: -4051138606687141263
+    second: Frames-Andar_30
+  - first:
+      213: -836138546214397936
+    second: Frames-Andar_31
+  - first:
+      213: -1108784408873928076
+    second: Frames-Andar_32
+  - first:
+      213: -8725950159626860087
+    second: Frames-Andar_33
+  - first:
+      213: -6860543569895870533
+    second: Frames-Andar_34
+  - first:
+      213: -6932700911589348940
+    second: Frames-Andar_35
+  - first:
+      213: 4422655315017122263
+    second: Frames-Andar_36
+  - first:
+      213: 3931639517529847766
+    second: Frames-Andar_37
+  - first:
+      213: 7612281271832432584
+    second: Frames-Andar_38
+  - first:
+      213: -4560339150747108937
+    second: Frames-Andar_39
+  - first:
+      213: 3718857991164006727
+    second: Frames-Andar_40
+  - first:
+      213: 6481016316488829734
+    second: Frames-Andar_41
+  - first:
+      213: 805187712524772966
+    second: Frames-Andar_42
+  - first:
+      213: 7126769746042164663
+    second: Frames-Andar_43
+  - first:
+      213: 9024148539130820088
+    second: Frames-Andar_44
+  - first:
+      213: 8588813966680454105
+    second: Frames-Andar_45
+  - first:
+      213: 4938847375236905365
+    second: Frames-Andar_46
+  - first:
+      213: -5295187645694091344
+    second: Frames-Andar_47
+  - first:
+      213: 2728861053886049854
+    second: Frames-Andar_48
+  - first:
+      213: 4164467261511687895
+    second: Frames-Andar_49
+  - first:
+      213: 644982610689999909
+    second: Frames-Andar_50
+  - first:
+      213: -3440802778218267631
+    second: Frames-Andar_51
+  - first:
+      213: -2466809536443841109
+    second: Frames-Andar_52
+  - first:
+      213: -8181783193192117597
+    second: Frames-Andar_53
+  - first:
+      213: 7166171356568943700
+    second: Frames-Andar_54
+  - first:
+      213: -8499736017049430748
+    second: Frames-Andar_55
+  - first:
+      213: 2135420799611913497
+    second: Frames-Andar_56
+  - first:
+      213: -9180828678209998978
+    second: Frames-Andar_57
+  - first:
+      213: -264330439105709822
+    second: Frames-Andar_58
+  - first:
+      213: 3133051336613226803
+    second: Frames-Andar_59
+  - first:
+      213: -8728379911602019441
+    second: Frames-Andar_60
+  - first:
+      213: -8846225267933865278
+    second: Frames-Andar_61
+  - first:
+      213: -7434340219901708256
+    second: Frames-Andar_62
+  - first:
+      213: -8441662999731249310
+    second: Frames-Andar_63
+  - first:
+      213: -6532941584122969701
+    second: Frames-Andar_64
+  - first:
+      213: -351624918046395105
+    second: Frames-Andar_65
+  - first:
+      213: 1185780048481220722
+    second: Frames-Andar_66
+  - first:
+      213: 8498620342268257038
+    second: Frames-Andar_67
+  - first:
+      213: 7528731584490514648
+    second: Frames-Andar_68
+  - first:
+      213: -1724325187967948636
+    second: Frames-Andar_69
+  - first:
+      213: 2912587793712047433
+    second: Frames-Andar_70
+  - first:
+      213: -5943790796387137208
+    second: Frames-Andar_71
+  - first:
+      213: -6731782464585217422
+    second: Frames-Andar_72
+  - first:
+      213: -4201906426514358200
+    second: Frames-Andar_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frames-Andar_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 625
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb18130635f18fe0800000000000000
+      internalID: -1188399214320149573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 625
+        width: 101
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14651776fbae193c0800000000000000
+      internalID: -4354441256895424959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_5
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 628
+        width: 100
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848a9d0e7ca94de0800000000000000
+      internalID: -1348356956026665845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 625
+        width: 99
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b3aa6709e2b800800000000000000
+      internalID: 626819516221077141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 625
+        width: 100
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc456e67d9739e50800000000000000
+      internalID: 6814924627318754549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 625
+        width: 100
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54e0992d833778a0800000000000000
+      internalID: -6307516071728323493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_10
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 625
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3adecada0ce96420800000000000000
+      internalID: 2623887789284842042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_11
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 631
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f0563a72c62660800000000000000
+      internalID: 7360784471136728041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_16
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 425
+        width: 97
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60717c4cf0f1af40800000000000000
+      internalID: 5738132366651650155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 418
+        width: 98
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a5ee73c4629c10800000000000000
+      internalID: 2058818770472118701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 426
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090d5d3ca4a751630800000000000000
+      internalID: 3897155514090770576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 425
+        width: 97
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fcd5296f49717f0800000000000000
+      internalID: -641880635138519170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_26
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 422
+        width: 93
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778c557f5203f250800000000000000
+      internalID: 5977123739464927101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_28
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 425
+        width: 94
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99078fcd8c45e26b0800000000000000
+      internalID: -5319220888200515431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 230
+        width: 85
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bc3df700231f950800000000000000
+      internalID: 6481016316488829734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 226
+        width: 79
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b518d4235f57e260800000000000000
+      internalID: 7126769746042164663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 228
+        width: 89
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5b04bc8473c3d70800000000000000
+      internalID: 9024148539130820088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_45
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 227
+        width: 87
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3f6e51cc8913770800000000000000
+      internalID: 8588813966680454105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_46
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 228
+        width: 79
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599bdd8458f4a8440800000000000000
+      internalID: 4938847375236905365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_47
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 227
+        width: 76
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfdd5f24e6b386b0800000000000000
+      internalID: -5295187645694091344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_48
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 226
+        width: 87
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea64e9bacded520800000000000000
+      internalID: 2728861053886049854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_60
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 32
+        width: 89
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836e4027b09ed680800000000000000
+      internalID: -8728379911602019441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 31
+        width: 86
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9109f30e345655a0800000000000000
+      internalID: -6532941584122969701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_65
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 30
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f153ba10007ce1bf0800000000000000
+      internalID: -351624918046395105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_66
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 31
+        width: 87
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f77bebacb47010800000000000000
+      internalID: 1185780048481220722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_68
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 31
+        width: 94
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d822d6bc7d6b7860800000000000000
+      internalID: 7528731584490514648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_69
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 32
+        width: 90
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a869ed9067f118e0800000000000000
+      internalID: -1724325187967948636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_70
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 31
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9456855ba279b6820800000000000000
+      internalID: 2912587793712047433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_0
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 419
+        width: 93
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bfe1d7823c5984980b124c32073b2c
+      internalID: 5286620555331141678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_1
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 421
+        width: 98
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0a6a38680862f4b8d2070124dfe8cc
+      internalID: 8489432871615715361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 227
+        width: 89
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6907eede1856d45a9b95e914ad5c63
+      internalID: 6768347837035478053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 30
+        width: 84
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce34ad2ee5df747b2668833eeb2c91
+      internalID: 1906773499175942340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc5b23dbce970a74c874b6950f7c089c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frames-Andar_0: 5286620555331141678
+      Frames-Andar_1: 8489432871615715361
+      Frames-Andar_10: 2623887789284842042
+      Frames-Andar_11: 7360784471136728041
+      Frames-Andar_12: -1169872549382257414
+      Frames-Andar_13: 7103135705102225352
+      Frames-Andar_14: -2388404426889585830
+      Frames-Andar_15: -74208509390064181
+      Frames-Andar_16: 5738132366651650155
+      Frames-Andar_17: -3390083083749302435
+      Frames-Andar_18: 245546204343962920
+      Frames-Andar_19: 2058818770472118701
+      Frames-Andar_2: -1188399214320149573
+      Frames-Andar_20: -2076242832293433590
+      Frames-Andar_21: 5336945531293923415
+      Frames-Andar_22: 4953706695992319905
+      Frames-Andar_23: 3897155514090770576
+      Frames-Andar_24: -641880635138519170
+      Frames-Andar_25: -1126101537493044502
+      Frames-Andar_26: 5977123739464927101
+      Frames-Andar_27: 1391510671495932230
+      Frames-Andar_28: -5319220888200515431
+      Frames-Andar_29: -192842337077563758
+      Frames-Andar_3: 6768347837035478053
+      Frames-Andar_30: -4051138606687141263
+      Frames-Andar_31: -836138546214397936
+      Frames-Andar_32: -1108784408873928076
+      Frames-Andar_33: -8725950159626860087
+      Frames-Andar_34: -6860543569895870533
+      Frames-Andar_35: -6932700911589348940
+      Frames-Andar_36: 4422655315017122263
+      Frames-Andar_37: 3931639517529847766
+      Frames-Andar_38: 7612281271832432584
+      Frames-Andar_39: -4560339150747108937
+      Frames-Andar_4: -4354441256895424959
+      Frames-Andar_40: 3718857991164006727
+      Frames-Andar_41: 6481016316488829734
+      Frames-Andar_42: 805187712524772966
+      Frames-Andar_43: 7126769746042164663
+      Frames-Andar_44: 9024148539130820088
+      Frames-Andar_45: 8588813966680454105
+      Frames-Andar_46: 4938847375236905365
+      Frames-Andar_47: -5295187645694091344
+      Frames-Andar_48: 2728861053886049854
+      Frames-Andar_49: 4164467261511687895
+      Frames-Andar_5: -1348356956026665845
+      Frames-Andar_50: 644982610689999909
+      Frames-Andar_51: -3440802778218267631
+      Frames-Andar_52: -2466809536443841109
+      Frames-Andar_53: -8181783193192117597
+      Frames-Andar_54: 7166171356568943700
+      Frames-Andar_55: -8499736017049430748
+      Frames-Andar_56: 2135420799611913497
+      Frames-Andar_57: -9180828678209998978
+      Frames-Andar_58: -264330439105709822
+      Frames-Andar_59: 3133051336613226803
+      Frames-Andar_6: 626819516221077141
+      Frames-Andar_60: -8728379911602019441
+      Frames-Andar_61: -8846225267933865278
+      Frames-Andar_62: -7434340219901708256
+      Frames-Andar_63: -8441662999731249310
+      Frames-Andar_64: -6532941584122969701
+      Frames-Andar_65: -351624918046395105
+      Frames-Andar_66: 1185780048481220722
+      Frames-Andar_67: 8498620342268257038
+      Frames-Andar_68: 7528731584490514648
+      Frames-Andar_69: -1724325187967948636
+      Frames-Andar_7: 1906773499175942340
+      Frames-Andar_70: 2912587793712047433
+      Frames-Andar_71: -5943790796387137208
+      Frames-Andar_72: -6731782464585217422
+      Frames-Andar_73: -4201906426514358200
+      Frames-Andar_8: 6814924627318754549
+      Frames-Andar_9: -6307516071728323493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

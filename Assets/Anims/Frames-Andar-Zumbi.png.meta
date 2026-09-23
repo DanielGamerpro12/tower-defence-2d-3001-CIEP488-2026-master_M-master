@@ -1,0 +1,967 @@
+fileFormatVersion: 2
+guid: 3877eb984ae2c78409277e98a00b491d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5090346615135569384
+    second: Frames-Andar-Zumbi_0
+  - first:
+      213: -9147613910541366780
+    second: Frames-Andar-Zumbi_1
+  - first:
+      213: -7670807092311363988
+    second: Frames-Andar-Zumbi_2
+  - first:
+      213: -1547710945078472795
+    second: Frames-Andar-Zumbi_3
+  - first:
+      213: -8803540526796952599
+    second: Frames-Andar-Zumbi_4
+  - first:
+      213: 1100497667851909751
+    second: Frames-Andar-Zumbi_5
+  - first:
+      213: 3241569034047747099
+    second: Frames-Andar-Zumbi_6
+  - first:
+      213: -1656169936661647013
+    second: Frames-Andar-Zumbi_7
+  - first:
+      213: 8314850508628311017
+    second: Frames-Andar-Zumbi_8
+  - first:
+      213: 2501414367864122862
+    second: Frames-Andar-Zumbi_9
+  - first:
+      213: 594662179973232383
+    second: Frames-Andar-Zumbi_10
+  - first:
+      213: -2678120501280840524
+    second: Frames-Andar-Zumbi_11
+  - first:
+      213: 8634249752796005036
+    second: Frames-Andar-Zumbi_12
+  - first:
+      213: 8527745613984553256
+    second: Frames-Andar-Zumbi_13
+  - first:
+      213: -7969374259762495620
+    second: Frames-Andar-Zumbi_14
+  - first:
+      213: 4145550399793474560
+    second: Frames-Andar-Zumbi_15
+  - first:
+      213: 3245512415858759542
+    second: Frames-Andar-Zumbi_16
+  - first:
+      213: -5706248290865464959
+    second: Frames-Andar-Zumbi_17
+  - first:
+      213: 4747835570292312163
+    second: Frames-Andar-Zumbi_18
+  - first:
+      213: 5253809122245032232
+    second: Frames-Andar-Zumbi_19
+  - first:
+      213: 4282496431097820222
+    second: Frames-Andar-Zumbi_20
+  - first:
+      213: 8116040986541842744
+    second: Frames-Andar-Zumbi_21
+  - first:
+      213: -3287632420887608243
+    second: Frames-Andar-Zumbi_22
+  - first:
+      213: 261364608199469353
+    second: Frames-Andar-Zumbi_23
+  - first:
+      213: 7087271416885674533
+    second: Frames-Andar-Zumbi_24
+  - first:
+      213: -4722213373110720596
+    second: Frames-Andar-Zumbi_25
+  - first:
+      213: -48377873621200910
+    second: Frames-Andar-Zumbi_26
+  - first:
+      213: 1349878444327131438
+    second: Frames-Andar-Zumbi_27
+  - first:
+      213: -8330327210332133684
+    second: Frames-Andar-Zumbi_28
+  - first:
+      213: 716413246899481717
+    second: Frames-Andar-Zumbi_29
+  - first:
+      213: 6285025006118434393
+    second: Frames-Andar-Zumbi_30
+  - first:
+      213: -8524446365131758599
+    second: Frames-Andar-Zumbi_31
+  - first:
+      213: 4483464661510999788
+    second: Frames-Andar-Zumbi_32
+  - first:
+      213: 315186999950036439
+    second: Frames-Andar-Zumbi_33
+  - first:
+      213: -1952934071730918335
+    second: Frames-Andar-Zumbi_34
+  - first:
+      213: 5331308118299650678
+    second: Frames-Andar-Zumbi_35
+  - first:
+      213: -1730716590847502189
+    second: Frames-Andar-Zumbi_36
+  - first:
+      213: -6563112764651321203
+    second: Frames-Andar-Zumbi_37
+  - first:
+      213: -3381449458642056987
+    second: Frames-Andar-Zumbi_38
+  - first:
+      213: 7296208957682340974
+    second: Frames-Andar-Zumbi_39
+  - first:
+      213: -5224675624772994300
+    second: Frames-Andar-Zumbi_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 633
+        width: 99
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a82cf4d952d0180800000000000000
+      internalID: -9147613910541366780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 632
+        width: 101
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eeb3a5791db8590800000000000000
+      internalID: -7670807092311363988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 633
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af0d97781d658ae0800000000000000
+      internalID: -1547710945078472795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 631
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2386b88a83d580800000000000000
+      internalID: -8803540526796952599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_5
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 631
+        width: 106
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a75785cc0c54f00800000000000000
+      internalID: 1100497667851909751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_6
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 630
+        width: 107
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b147255acdd5cfc20800000000000000
+      internalID: 3241569034047747099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_7
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 629
+        width: 106
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f995a73a1409e0800000000000000
+      internalID: -1656169936661647013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_8
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 630
+        width: 103
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb344fcb78446370800000000000000
+      internalID: 8314850508628311017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 420
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4e677e79765dad0800000000000000
+      internalID: -2678120501280840524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 420
+        width: 89
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca20969676403d770800000000000000
+      internalID: 8634249752796005036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 420
+        width: 89
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829d1783473a85670800000000000000
+      internalID: 8527745613984553256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 420
+        width: 91
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c2b22ef14f78930800000000000000
+      internalID: 4145550399793474560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_16
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 419
+        width: 94
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6779165c8506a0d20800000000000000
+      internalID: 3245512415858759542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 418
+        width: 91
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189b8c699655fc0b0800000000000000
+      internalID: -5706248290865464959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 227
+        width: 104
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a694f9bd80a300800000000000000
+      internalID: 261364608199469353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 228
+        width: 105
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522004ebdcb0b5260800000000000000
+      internalID: 7087271416885674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 227
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7e22ed4f3577eb0800000000000000
+      internalID: -4722213373110720596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_26
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 225
+        width: 104
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffc1db8490245ff0800000000000000
+      internalID: -48377873621200910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_28
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 226
+        width: 102
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e165c98bb46c80800000000000000
+      internalID: -8330327210332133684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 226
+        width: 112
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ce3d56d0631f900800000000000000
+      internalID: 716413246899481717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 225
+        width: 110
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956f22e81f4e83750800000000000000
+      internalID: 6285025006118434393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_31
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 226
+        width: 110
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3a373023513b980800000000000000
+      internalID: -8524446365131758599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 33
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc7d118e4cf5400800000000000000
+      internalID: 315186999950036439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_34
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 33
+        width: 106
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca8b01fc8c5e4e0800000000000000
+      internalID: -1952934071730918335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_35
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 31
+        width: 103
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a2863bc7c9cf940800000000000000
+      internalID: 5331308118299650678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_36
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 29
+        width: 107
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398d8ab2e624bf7e0800000000000000
+      internalID: -1730716590847502189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 33
+        width: 101
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d884022a6b32be4a0800000000000000
+      internalID: -6563112764651321203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 32
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e804bf02ada211d0800000000000000
+      internalID: -3381449458642056987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_39
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 31
+        width: 110
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64dda9d367514560800000000000000
+      internalID: 7296208957682340974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frames-Andar-Zumbi_40
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 31
+        width: 105
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b73c663393e77b0800000000000000
+      internalID: -5224675624772994300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bf8e21be5bbb594c81fbd847b11662c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frames-Andar-Zumbi_0: 5090346615135569384
+      Frames-Andar-Zumbi_1: -9147613910541366780
+      Frames-Andar-Zumbi_10: 594662179973232383
+      Frames-Andar-Zumbi_11: -2678120501280840524
+      Frames-Andar-Zumbi_12: 8634249752796005036
+      Frames-Andar-Zumbi_13: 8527745613984553256
+      Frames-Andar-Zumbi_14: -7969374259762495620
+      Frames-Andar-Zumbi_15: 4145550399793474560
+      Frames-Andar-Zumbi_16: 3245512415858759542
+      Frames-Andar-Zumbi_17: -5706248290865464959
+      Frames-Andar-Zumbi_18: 4747835570292312163
+      Frames-Andar-Zumbi_19: 5253809122245032232
+      Frames-Andar-Zumbi_2: -7670807092311363988
+      Frames-Andar-Zumbi_20: 4282496431097820222
+      Frames-Andar-Zumbi_21: 8116040986541842744
+      Frames-Andar-Zumbi_22: -3287632420887608243
+      Frames-Andar-Zumbi_23: 261364608199469353
+      Frames-Andar-Zumbi_24: 7087271416885674533
+      Frames-Andar-Zumbi_25: -4722213373110720596
+      Frames-Andar-Zumbi_26: -48377873621200910
+      Frames-Andar-Zumbi_27: 1349878444327131438
+      Frames-Andar-Zumbi_28: -8330327210332133684
+      Frames-Andar-Zumbi_29: 716413246899481717
+      Frames-Andar-Zumbi_3: -1547710945078472795
+      Frames-Andar-Zumbi_30: 6285025006118434393
+      Frames-Andar-Zumbi_31: -8524446365131758599
+      Frames-Andar-Zumbi_32: 4483464661510999788
+      Frames-Andar-Zumbi_33: 315186999950036439
+      Frames-Andar-Zumbi_34: -1952934071730918335
+      Frames-Andar-Zumbi_35: 5331308118299650678
+      Frames-Andar-Zumbi_36: -1730716590847502189
+      Frames-Andar-Zumbi_37: -6563112764651321203
+      Frames-Andar-Zumbi_38: -3381449458642056987
+      Frames-Andar-Zumbi_39: 7296208957682340974
+      Frames-Andar-Zumbi_4: -8803540526796952599
+      Frames-Andar-Zumbi_40: -5224675624772994300
+      Frames-Andar-Zumbi_5: 1100497667851909751
+      Frames-Andar-Zumbi_6: 3241569034047747099
+      Frames-Andar-Zumbi_7: -1656169936661647013
+      Frames-Andar-Zumbi_8: 8314850508628311017
+      Frames-Andar-Zumbi_9: 2501414367864122862
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
