@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: ecc438e7a3587a6458a77f9fa91be3a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7559441114066917746
+    second: Torres_0
+  - first:
+      213: -2015035486327324430
+    second: Torres_1
+  - first:
+      213: 7414940168453833420
+    second: Torres_2
+  - first:
+      213: 3135711596584112038
+    second: Torres_3
+  - first:
+      213: 7157730060879604788
+    second: Torres_4
+  - first:
+      213: 1168725251260093473
+    second: Torres_5
+  - first:
+      213: 2276984761876334452
+    second: Torres_6
+  - first:
+      213: 6603191443498502412
+    second: Torres_7
+  - first:
+      213: -6861198584521166703
+    second: Torres_8
+  - first:
+      213: -3893654762557931033
+    second: Torres_9
+  - first:
+      213: 4051956504826503352
+    second: Torres_10
+  - first:
+      213: 4910730883386308498
+    second: Torres_11
+  - first:
+      213: -552010700370234080
+    second: Torres_12
+  - first:
+      213: 3649005347303046895
+    second: Torres_13
+  - first:
+      213: 6159276095193852453
+    second: Torres_14
+  - first:
+      213: 4515535994676955989
+    second: Torres_15
+  - first:
+      213: -1809332885458323161
+    second: Torres_16
+  - first:
+      213: 7332872899388533169
+    second: Torres_17
+  - first:
+      213: 6330942889388743112
+    second: Torres_18
+  - first:
+      213: 8474178138666205437
+    second: Torres_19
+  - first:
+      213: -1310333554426055735
+    second: Torres_20
+  - first:
+      213: -2319108448477661656
+    second: Torres_21
+  - first:
+      213: 237892358647583679
+    second: Torres_22
+  - first:
+      213: -5382512843648444815
+    second: Torres_23
+  - first:
+      213: -3665387196754303439
+    second: Torres_24
+  - first:
+      213: -6706598032348639911
+    second: Torres_25
+  - first:
+      213: -7833866879593660326
+    second: Torres_26
+  - first:
+      213: 1132040938418169785
+    second: Torres_27
+  - first:
+      213: -8534666372665565949
+    second: Torres_28
+  - first:
+      213: 1433086346409510989
+    second: Torres_29
+  - first:
+      213: -6558162987072711482
+    second: Torres_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torres_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 502
+        width: 242
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279117044a788e860800000000000000
+      internalID: 7559441114066917746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 467
+        width: 319
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af08785519448b20800000000000000
+      internalID: 3135711596584112038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 460
+        width: 349
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e10ab77f95f6f9c0800000000000000
+      internalID: -3893654762557931033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 743
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0648319f07b3830800000000000000
+      internalID: 4051956504826503352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 29
+        width: 426
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb318fbf6d92d4300800000000000000
+      internalID: 237892358647583679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 51
+        width: 324
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1765b5326197d45b0800000000000000
+      internalID: -5382512843648444815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_24
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 41
+        width: 362
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e13db3cde12dc0800000000000000
+      internalID: -3665387196754303439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torres_26
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 68
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504f102493884390800000000000000
+      internalID: -7833866879593660326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6fcee98dcf85e374cb0cf95b29b05924
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Torres_0: 7559441114066917746
+      Torres_1: -2015035486327324430
+      Torres_10: 4051956504826503352
+      Torres_11: 4910730883386308498
+      Torres_12: -552010700370234080
+      Torres_13: 3649005347303046895
+      Torres_14: 6159276095193852453
+      Torres_15: 4515535994676955989
+      Torres_16: -1809332885458323161
+      Torres_17: 7332872899388533169
+      Torres_18: 6330942889388743112
+      Torres_19: 8474178138666205437
+      Torres_2: 7414940168453833420
+      Torres_20: -1310333554426055735
+      Torres_21: -2319108448477661656
+      Torres_22: 237892358647583679
+      Torres_23: -5382512843648444815
+      Torres_24: -3665387196754303439
+      Torres_25: -6706598032348639911
+      Torres_26: -7833866879593660326
+      Torres_27: 1132040938418169785
+      Torres_28: -8534666372665565949
+      Torres_29: 1433086346409510989
+      Torres_3: 3135711596584112038
+      Torres_30: -6558162987072711482
+      Torres_4: 7157730060879604788
+      Torres_5: 1168725251260093473
+      Torres_6: 2276984761876334452
+      Torres_7: 6603191443498502412
+      Torres_8: -6861198584521166703
+      Torres_9: -3893654762557931033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
