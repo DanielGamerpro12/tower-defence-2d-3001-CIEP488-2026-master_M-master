@@ -201,10 +201,10 @@ MonoBehaviour:
   audioMusica: {fileID: 6665313645351938939}
   audioSFX: {fileID: 9064551923457822498}
   audioMarcha: {fileID: 4540708249944787689}
-  musicaMenu: {fileID: 8300000, guid: b64392276d042c349b4b6e5297be97e0, type: 3}
-  musicaFase: {fileID: 8300000, guid: 52293331eae9243499104b4e66e72438, type: 3}
-  musicaGameOver: {fileID: 0}
-  musicaNivelCompletado: {fileID: 0}
+  musicaMenu: {fileID: 8300000, guid: 8b128e06a5731cf4cb280aaec0df1119, type: 3}
+  musicaFase: {fileID: 8300000, guid: 2eb96c4f4c4cda34d84f93528fd05d8d, type: 3}
+  musicaGameOver: {fileID: 8300000, guid: 12e009365e3a6b847b244959f762b006, type: 3}
+  musicaNivelCompletado: {fileID: 8300000, guid: 90a3f81dffc51e54da49dfa7793ec903, type: 3}
 --- !u!1 &4161903745547014465
 GameObject:
   m_ObjectHideFlags: 0
