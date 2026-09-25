@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c4f37c1a9e10fb6478d4861fe11371ed
+guid: e02c5cdbf83ecc44d8819fbd2d94b91d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4043408875964322388
-    second: Copilot_20260914_175839-removebg-preview_0
+      213: -6847491710388464670
+    second: ChatGPT Image 25 de set. de 2026, 15_58_13-Photoroom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +97,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -113,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Copilot_20260914_175839-removebg-preview_0
+      name: ChatGPT Image 25 de set. de 2026, 15_58_13-Photoroom_0
       rect:
         serializedVersion: 2
-        x: 51
-        y: 78
-        width: 400
-        height: 372
+        x: 406
+        y: 163
+        width: 725
+        height: 699
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cad2c7adc0de2e7c0800000000000000
-      internalID: -4043408875964322388
+      spriteID: 2e31dd7a192d8f0a0800000000000000
+      internalID: -6847491710388464670
       vertices: []
       indices: 
       edges: []
@@ -138,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 38069cf886a3bc548bd3ca0cc009bab2
+    spriteID: 31a6773728cceb748989d6d8d94549cf
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Copilot_20260914_175839-removebg-preview_0: -4043408875964322388
+      ChatGPT Image 25 de set. de 2026, 15_58_13-Photoroom_0: -6847491710388464670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

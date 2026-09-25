@@ -1311,7 +1311,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &220667846
 GameObject:
   m_ObjectHideFlags: 0
@@ -1481,7 +1481,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &234208732
 GameObject:
   m_ObjectHideFlags: 0
@@ -1789,7 +1789,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &270343906
 GameObject:
   m_ObjectHideFlags: 0
@@ -2224,7 +2224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 222d462793ae4d04d89a5cd8646c28ab, type: 3}
 --- !u!1 &346022269
 GameObject:
   m_ObjectHideFlags: 0
@@ -3515,7 +3515,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -4192,7 +4192,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &667724622
 GameObject:
   m_ObjectHideFlags: 0
@@ -4400,7 +4400,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 1.6740112, y: 0}
+  m_AnchoredPosition: {x: 1.6740723, y: 0}
   m_SizeDelta: {x: -63.591, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &674237861
@@ -4786,7 +4786,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &732191531
 GameObject:
   m_ObjectHideFlags: 0
@@ -4944,7 +4944,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &742832593
 GameObject:
   m_ObjectHideFlags: 0
@@ -5161,7 +5161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &800249852
 GameObject:
   m_ObjectHideFlags: 0
@@ -5503,7 +5503,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &906140221
 GameObject:
   m_ObjectHideFlags: 0
@@ -5673,7 +5673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &924598838
 GameObject:
   m_ObjectHideFlags: 0
@@ -6459,7 +6459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1108572520
 GameObject:
   m_ObjectHideFlags: 0
@@ -6919,7 +6919,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1220355674
 GameObject:
   m_ObjectHideFlags: 0
@@ -7077,7 +7077,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1270216140
 GameObject:
   m_ObjectHideFlags: 0
@@ -7236,7 +7236,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1288673020
 GameObject:
   m_ObjectHideFlags: 0
@@ -7954,7 +7954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1440421718
 GameObject:
   m_ObjectHideFlags: 0
@@ -9380,7 +9380,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &1884273487
 GameObject:
   m_ObjectHideFlags: 0
@@ -9977,7 +9977,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &2064001044
 GameObject:
   m_ObjectHideFlags: 0
@@ -10273,7 +10273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7e902d22149e2a4d9f6e888d21c5889, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BotaoSom
-  somClique: {fileID: 8300000, guid: ce84c63cc1f4ec4478a8e2c39ed0d8c6, type: 3}
+  somClique: {fileID: 8300000, guid: 8374ed4318b87984a9cb102f96f51a45, type: 3}
 --- !u!1 &2096716619
 GameObject:
   m_ObjectHideFlags: 0
@@ -10630,11 +10630,11 @@ PrefabInstance:
     - target: {fileID: 7051318397652572219, guid: 3928a0fbe786a9048bea4ad4bee069cb, type: 3}
       propertyPath: musicaFase
       value: 
-      objectReference: {fileID: 8300000, guid: 52293331eae9243499104b4e66e72438, type: 3}
+      objectReference: {fileID: 8300000, guid: 2eb96c4f4c4cda34d84f93528fd05d8d, type: 3}
     - target: {fileID: 7051318397652572219, guid: 3928a0fbe786a9048bea4ad4bee069cb, type: 3}
       propertyPath: musicaMenu
       value: 
-      objectReference: {fileID: 8300000, guid: b64392276d042c349b4b6e5297be97e0, type: 3}
+      objectReference: {fileID: 8300000, guid: 8b128e06a5731cf4cb280aaec0df1119, type: 3}
     - target: {fileID: 7051318397652572219, guid: 3928a0fbe786a9048bea4ad4bee069cb, type: 3}
       propertyPath: audioMarcha
       value: 

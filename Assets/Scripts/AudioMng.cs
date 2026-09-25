@@ -15,11 +15,6 @@ public class AudioMng : MonoBehaviour
 
     private int inimigosAndando = 0;
 
-    private void Awake()
-    {
-        DontDestroyOnLoad(gameObject);
-    }
-
     private void Start()
     {
         TrocarMusicaPorCena(SceneManager.GetActiveScene().name);
