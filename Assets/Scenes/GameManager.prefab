@@ -200,9 +200,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   audioMusica: {fileID: 6665313645351938939}
   audioSFX: {fileID: 9064551923457822498}
-  audioMarcha: {fileID: 0}
+  audioMarcha: {fileID: 4540708249944787689}
   musicaMenu: {fileID: 8300000, guid: b64392276d042c349b4b6e5297be97e0, type: 3}
   musicaFase: {fileID: 8300000, guid: 52293331eae9243499104b4e66e72438, type: 3}
+  musicaGameOver: {fileID: 0}
+  musicaNivelCompletado: {fileID: 0}
 --- !u!1 &4161903745547014465
 GameObject:
   m_ObjectHideFlags: 0
@@ -690,6 +692,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   poderes:
+  - {fileID: 0}
   - {fileID: 11400000, guid: 818f585ea19385a49b4703e8ef0d9236, type: 2}
   - {fileID: 11400000, guid: c5aa26990d966bc428c1dbdcfb16434a, type: 2}
   - {fileID: 11400000, guid: 7d2409f6c90acea408c79072f3ca0897, type: 2}

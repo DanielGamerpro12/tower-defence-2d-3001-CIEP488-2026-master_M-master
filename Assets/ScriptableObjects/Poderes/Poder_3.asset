@@ -18,4 +18,4 @@ MonoBehaviour:
     descricao: Congela os inimigos por 3s
     preco: 2000
     quantidade: 0
-  icone: {fileID: 2757212049345503502, guid: 4efab6e80ec694746842f5a8976d4614, type: 3}
+  icone: {fileID: 1778903051063929693, guid: 4541b74c59bb65741b18614771ec9d61, type: 3}
